@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modul2_Kel10</string>
+    <string name="mulai">Mulai</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="main_title">Get Data dari Rest API</string>
+    <string name="namanim" />
+</resources>
